@@ -1,0 +1,1 @@
+include ':app', ':xutils-3', ':slidingMenuLibrary', ':viewPagerIndicator'
